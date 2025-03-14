@@ -2,6 +2,8 @@
 
 library(stringr)
 library(lubridate)
+library(tidyverse)
+print("hello")
 
 # Store the raw files in this location.  These files
 # can be deleted after the "prep.py" script is run.
